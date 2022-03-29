@@ -1,0 +1,24 @@
+2022-03-22 11:10:57.670 WAT [7916] LOG:  redirecting log output to logging collector process
+2022-03-22 11:10:57.670 WAT [7916] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:13:10.650 WAT [7908] LOG:  redirecting log output to logging collector process
+2022-03-22 11:13:10.650 WAT [7908] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:19:48.142 WAT [5892] LOG:  redirecting log output to logging collector process
+2022-03-22 11:19:48.142 WAT [5892] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:19:55.228 WAT [7448] LOG:  redirecting log output to logging collector process
+2022-03-22 11:19:55.228 WAT [7448] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:20:26.946 WAT [7232] LOG:  redirecting log output to logging collector process
+2022-03-22 11:20:26.946 WAT [7232] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:20:38.467 WAT [7528] LOG:  redirecting log output to logging collector process
+2022-03-22 11:20:38.467 WAT [7528] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:20:52.827 WAT [5900] LOG:  redirecting log output to logging collector process
+2022-03-22 11:20:52.827 WAT [5900] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:21:43.985 WAT [7248] LOG:  redirecting log output to logging collector process
+2022-03-22 11:21:43.985 WAT [7248] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:25:02.986 WAT [4932] LOG:  redirecting log output to logging collector process
+2022-03-22 11:25:02.986 WAT [4932] HINT:  Future log output will appear in directory "log".
+2022-03-22 11:46:22.662 WAT [2800] LOG:  redirecting log output to logging collector process
+2022-03-22 11:46:22.662 WAT [2800] HINT:  Future log output will appear in directory "log".
+^C2022-03-22 13:04:28.935 WAT [5248] LOG:  redirecting log output to logging collector process
+2022-03-22 13:04:28.935 WAT [5248] HINT:  Future log output will appear in directory "log".
+2022-03-23 11:16:19.032 WAT [5116] LOG:  redirecting log output to logging collector process
+2022-03-23 11:16:19.032 WAT [5116] HINT:  Future log output will appear in directory "log".
